@@ -3,6 +3,15 @@
 Early version of the Java game including sprites and health
 
 
+### How to run
+Use Maven to compile the java:
+
+```mvn compile```
+
+and run Game.java 
+
+Or reload the pom.xml
+
 ## Game controls 
 
 Move using: 
